@@ -1,4 +1,4 @@
-package org.example;
+package org.leetcode;
 import java.util.*;
 public class LeetCodeSqrt {
     public static int squareRoot(int num){

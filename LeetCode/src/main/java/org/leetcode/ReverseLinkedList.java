@@ -1,6 +1,6 @@
 //LeetCode ReverseList: https://leetcode.com/problems/reverse-linked-list/description/
-package org.example;
-import java.util.*;
+package org.leetcode;
+
 public class ReverseLinkedList {
     static Node head;
     static class Node{

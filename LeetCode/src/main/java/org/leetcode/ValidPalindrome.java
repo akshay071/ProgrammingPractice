@@ -1,5 +1,5 @@
 //Leet Code Valid palindrome https://leetcode.com/problems/valid-palindrome/description/
-package org.example;
+package org.leetcode;
 import java.util.*;
 public class ValidPalindrome {
     public static void main(String args[]){

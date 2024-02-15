@@ -1,4 +1,4 @@
-package org.example;
+package org.leetcode;
 import java.util.*;
 public class MaxStringReverse {
     public static void main(String args[]){

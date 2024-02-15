@@ -1,4 +1,4 @@
-package org.example;
+package org.leetcode;
 
 public class HelloWorld {
     public static void main(String[] args) {

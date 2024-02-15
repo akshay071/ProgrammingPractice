@@ -1,5 +1,5 @@
 //LeetCode RearrangeArray:https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
-package org.example;
+package org.leetcode;
 import java.util.*;
 public class RearrangeArray {
     public static void rearrangeSignArray(int[] nums) {
