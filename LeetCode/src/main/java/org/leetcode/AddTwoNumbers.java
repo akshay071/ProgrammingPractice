@@ -36,9 +36,9 @@ public class AddTwoNumbers {
     }
     public static int getNum(LinkedList l1){
         int num=0;
-        for(int i=0;i<l1.size();i++){
+        for (Object o : l1) {
             num *= 10;
-            num = num + (int) l1.get(i);
+            num = num + (int) o;
         }
         num = reverseNum(num);
         return num;
